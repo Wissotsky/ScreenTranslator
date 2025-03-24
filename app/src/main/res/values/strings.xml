@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ScreenTranslator</string>
+    <string name="accessibility_service_description">Screen Translator Accessibility Service</string>
+</resources>
